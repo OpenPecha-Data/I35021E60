@@ -1,10 +1,10 @@
-|P003235|སི་ཁྲོན་བོད་རིག་པའི་ཞིབ་འཇུག ༼༣༽ 
+|I35021E60|སི་ཁྲོན་བོད་རིག་པའི་ཞིབ་འཇུག ༼༣༽ 
 | --- | --- 
 |Alternative Title |
 |Author| 杨岭多吉
 |BDRC ID | W1PD137867
 |Creator | Google OCR
 |Number of Volumes| 1
-|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/P003235)
-|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/P003235/releases/download/v2/si_tron_bo_rigpa_i_shyibjuk_plain_P003235.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/P003235/releases/download/v2/si_tron_bo_rigpa_i_shyibjuk_pages_P003235.zip)
+|<img width="25" src="https://img.icons8.com/color/25/000000/edit-property.png">Edit Online| [<img width="25" src="https://avatars.githubusercontent.com/u/45091458?s=200&v=4"> Open in Editor](http://editor.openpecha.org/I35021E60)
+|<img width="25" src="https://img.icons8.com/fluent/48/000000/download-2.png"/>  Download | [![](https://img.icons8.com/color/20/000000/txt.png)Plain Text](https://github.com/Openpecha/I35021E60/releases/download/v2/si_tron_bo_rigpa_i_shyibjuk_plain_I35021E60.zip), [![](https://img.icons8.com/color/20/000000/txt.png)Text with Pagination](https://github.com/Openpecha/I35021E60/releases/download/v2/si_tron_bo_rigpa_i_shyibjuk_pages_I35021E60.zip)
 |<img width="25" src="https://img.icons8.com/plasticine/100/000000/pictures-folder.png"/>  Source Images | [<img width="25" src="https://library.bdrc.io/icons/BUDA-small.svg"> Images of text file open in BUDA](https://library.bdrc.io/show/bdr:W1PD137867)
